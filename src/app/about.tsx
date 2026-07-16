@@ -72,8 +72,10 @@ export default function TabTwoScreen() {
             <ExternalLink href="https://expo.dev/">
               <ThemedText type="linkPrimary"> Expo</ThemedText>
             </ExternalLink>
-              .
-
+              , and uses JavaScript with React Native accordingly.
+            </ThemedText>
+            <ThemedText type="small">
+              Claude Code was also used in the making of this project.
             </ThemedText>
           </Collapsible>
 
