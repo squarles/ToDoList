@@ -7,7 +7,7 @@
     
    It was primarily made as mobile-development practice for larger projects.
 
-## What tools were used to make this?">
+## What tools were used to make this?
    
    This was made with Expo, and uses JavaScript with React Native accordingly.
    
